@@ -1,5 +1,5 @@
 ## This is a REST API crud application build using Nodejs libraries such as expressJS, morgan,dotenv, ejs , axios, mongoose, favicon and nodemon.
-## In this project you can create new employee , read the employees , update existing employee and delete an employee. You can test this operations using POSTMAN wich is an application used for API testing.
+## In this project you can create new employee , read the employees , update existing employee and delete an employee. You can test this operations using POSTMAN which is an application used for API testing.
 modules explanation
 ## expressJS-Express. js is a free and open-source web application framework for Node. js. It is used for designing and building web applications quickly and easily.
 ## morgan - used to generate logs. it is used as a logger
@@ -11,5 +11,5 @@ modules explanation
 ## nodemon - nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
 ## The modules/dependencies are installed using - npm install.
-## To run the application ,,, connect your server to any port eg 3000 or 8080 and you are ready to go.
+## To run the application ,,, connect your server to any port eg 3000 or 8080 and thats it.
 ## Then run npm start or nodemon server.js or node server.js
