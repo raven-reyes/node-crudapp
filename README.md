@@ -18,5 +18,5 @@ modules explanation
 After running the application, you will see a page like(index.js_EIMS_homepage.png) on the browser which displays the details of all the employees in stored in the system.
 On that page you can perform other CRUD Operations like ; Adding new employees using the(new employee button),
 updating details existing employees  using the(pencil button) and delete employees usin the (X) button.
-After adding an employee to your application , their information is stored in MongoDB Atlas which is a global cloud database service managed and run by the team MongoDB.
+After adding an employee to your application , their information is stored in MongoDB Atlas which is a global cloud database service managed and run by the team  behind MongoDB.
 The database i used in this project is called(users) and the collection is(userdbs) as shown in (database_image.png).
