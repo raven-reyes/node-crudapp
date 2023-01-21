@@ -8,7 +8,7 @@ const app = express();
 
 dotenv.config( { path : 'config.env'} )
 const PORT = process.env.PORT || 8080
-// path to our logo icon/favicon
+//// path to our logo icon/favicon
 app.use(favicon(path.join(__dirname,'public','favicon.ico')));
 // log requests
 //Create a new named format
